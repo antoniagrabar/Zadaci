@@ -15,9 +15,7 @@ Kako isprobati zadatak
 
 Napomene: 
 1) Greške unosa
-Ukoliko korisnik u bilo kojem trenutku upiše nevažeću vrijednost (npr. negativni broj ili string), 
-ispisat će se poruka "Invalid input. Please provide a new input: " i tražiti novi input tako dugo 
-dokle korisnik ne unese ispravan pozitivan broj, nakon čega će se nastaviti izvršavanje programa.
+Ukoliko korisnik u bilo kojem trenutku upiše nevažeću vrijednost (npr. negativni broj ili string), ispisat će se poruka "Invalid input. Please provide a new input: " i tražiti novi input tako dugo dokle korisnik ne unese ispravan pozitivan broj, nakon čega će se nastaviti izvršavanje programa.
 
 2) Logičke greške
 Za slučajeve:
@@ -26,6 +24,5 @@ Za slučajeve:
 	c) iz tramvaja izlazi više putnika nego što ih je trenutno u tramvaju
 	d) na zadnjoj stanici ne izađu svi putnici
 	e) upisani su premali ili preveliki brojevi
-ispisat će se prikladna poruka te će se tražiti novi input tako dugo dokle korisnik ne unese logičko ispravnu 
-vrijednost.
+ispisat će se prikladna poruka te će se tražiti novi input tako dugo dokle korisnik ne unese logičko ispravnu vrijednost.
 
