@@ -1,0 +1,31 @@
+Kako pokrenuti zadatak:
+
+1) Preuzeti kod sa GitHub repozitorija
+2) Otvoriti program u željenom code editoru (npr. Visual Studio Code)
+3) Pokrenuti program - moguće više načina, najjednostavnije sa Code runner extension i prečacem Ctrl+Alt+N
+
+
+Kako isprobati zadatak
+
+1) Nakon što se pokrene zadatak, u VSC terminal upisati broj postaja tramvaja
+2) U slijedećih 2n redova redom naizmjenice upisati broj putnika koji izlaze iz tramvaja i ulaze u tramvaj 
+3) Ukoliko se javi greška ponovo upisati traženu vrijednost
+4) U konačnici će se ispisati poruka sa rješenjem zadatka
+   
+
+Napomene: 
+1) Greške unosa
+Ukoliko korisnik u bilo kojem trenutku upiše nevažeću vrijednost (npr. negativni broj ili string), 
+ispisat će se poruka "Invalid input. Please provide a new input: " i tražiti novi input tako dugo 
+dokle korisnik ne unese ispravan pozitivan broj, nakon čega će se nastaviti izvršavanje programa.
+
+2) Logičke greške
+Za slučajeve:
+	a) broj putnika koji izlaze na prvoj stanici nije jednak nuli
+	b) broj putnika koji ulaze na zadnjoj stanici nije jednak nuli
+	c) iz tramvaja izlazi više putnika nego što ih je trenutno u tramvaju
+	d) na zadnjoj stanici ne izađu svi putnici
+	e) upisani su premali ili preveliki brojevi
+ispisat će se prikladna poruka te će se tražiti novi input tako dugo dokle korisnik ne unese logičko ispravnu 
+vrijednost.
+
